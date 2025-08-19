@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Miguel7172/Loading-UI/refs/heads/main/loading"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kalebmoura545-ctrl/Script/refs/heads/main/script.lua")
