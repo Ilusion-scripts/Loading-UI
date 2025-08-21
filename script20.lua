@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Miguel7172/Loading-UI/refs/heads/main/loading"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ilusion-scripts/Loading-UI/refs/heads/main/loading"))()
 
 
 local chance = math.random(1, 100)
